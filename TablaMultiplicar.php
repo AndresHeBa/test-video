@@ -32,6 +32,7 @@
         <h1>Cambio En Remoto 2</h1>
         <h1>Cambio en local</h1>
         <h1>Cambio en local 2</h1>
+        <p>Cambio en local</p>
         <label for="num">Número:</label>
         <input type="number" name="num" required>
         <br>
