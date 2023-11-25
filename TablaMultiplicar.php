@@ -30,6 +30,7 @@
         <h1>Tabla de Multiplicar</h1>
         <h1>Cambio En Remoto</h1>
         <h1>Cambio en local</h1>
+        <h1>Cambio en local 2</h1>
         <label for="num">Número:</label>
         <input type="number" name="num" required>
         <br>
