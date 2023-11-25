@@ -20,7 +20,6 @@
         }
         p {
             font-size: 18px;
-            ytfghjkiudgfvdhjijdhg
         }
     </style>
 </head>
