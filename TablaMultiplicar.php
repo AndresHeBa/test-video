@@ -2,6 +2,7 @@
 <html>
 <head>
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             background-color: #f2f2f2;
@@ -27,6 +28,7 @@
 <h3>Erik Omar Alba Davila</h3>
     <form method="get">
         <h1>Tabla de Multiplicar</h1>
+        <h1>Cambio En Remoto</h1>
         <label for="num">Número:</label>
         <input type="number" name="num" required>
         <br>
